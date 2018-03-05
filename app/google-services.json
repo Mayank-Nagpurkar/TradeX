@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "474343820700",
+    "firebase_url": "https://tradex-rmj.firebaseio.com",
+    "project_id": "tradex-rmj",
+    "storage_bucket": "tradex-rmj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474343820700:android:591fef0773c4cdc6",
+        "android_client_info": {
+          "package_name": "com.example.mayank.tradex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474343820700-d0rcelscq4ta30lslg049bbq0gfvmflq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.tradex",
+            "certificate_hash": "0f609ed79c6e89475f62e273e69dac714808a9c8"
+          }
+        },
+        {
+          "client_id": "474343820700-ekt0s1h3b76869a3lsp60sklg6hrj01p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEp9EjTsQvMJSfpgcDjUZBgoin7ItVFVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474343820700-ekt0s1h3b76869a3lsp60sklg6hrj01p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
